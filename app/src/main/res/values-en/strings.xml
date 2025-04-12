@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="happy_birthday_text">С днем рождения Николай!</string>
+    <string name="signature_text">От Дмитрия </string>
+    <string name="first_text">Perviy</string>
+    <string name="second_text">Vtoroy</string>
+</resources>
